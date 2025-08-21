@@ -18,7 +18,7 @@ Bu repository, Windows kullanıcıları için özenle seçilmiş **15 NirSoft ar
 
 ### 🔧 Üretkenlik ve Güvenlik
 9. **ProduKey** – Windows ve Office ürün anahtarlarını gösterir.  
-10. **BlueScreenView** – Sistem çökmelerini analiz eder. *(opsiyonel tekrar, ya da başka bir araç ekleyebilirsiniz)*  
+10. **BlueScreenView** – Sistem çökmelerini analiz eder.
 11. **NirCmd** – Komut satırı ile küçük sistem görevlerini otomatikleştirme aracı.  
 12. **RegScanner** – Windows kayıt defterinde hızlı arama yapar.  
 13. **WebBrowserPassView** – Tüm tarayıcılardaki kayıtlı şifreleri listeler.  
